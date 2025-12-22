@@ -8,14 +8,30 @@
 
 ## 💚 Sobre Mim
 
-Iniciante em programação, aprendendo e construindo projetos para evoluir a cada dia! 🚀
+Desenvolvedora Frontend apaixonada por criar experiências digitais incríveis! 🚀
 
-- 💻 Estudando: **Desenvolvimento Frontend e Design de Interfaces**
-- 🎯 Objetivo: **Criar aplicações web incríveis**
-- 📚 Sempre em busca de novos conhecimentos e desafios
-- ⚡ Curiosidade: Adoro experimentar com cores e layouts! 💚
+- 💻 **Tecnologias:** HTML, CSS, JavaScript e Vue.js
+- 🎨 **Aprofundando em:** UI/UX Design e experiência do usuário
+- 🔌 **Estudando:** APIs REST e integração de serviços
+- 📚 **Hobbies:** Leitura e aprendizado contínuo
+- ⚡ **Paixão:** Criar interfaces bonitas e funcionais! 💚
 
-## 🛠️ Tecnologias que estou Aprendendo
+## 🎯 Foco Atual
+
+<div align="center">
+
+### 🎨 UI/UX Design
+Explorando princípios de design, psicologia das cores, tipografia e criação de interfaces intuitivas
+
+### 🔌 APIs & Integração
+Aprendendo a consumir e integrar APIs REST para criar aplicações dinâmicas e conectadas
+
+### 📖 Leitura & Desenvolvimento
+Sempre buscando novos conhecimentos através de livros, artigos e documentações
+
+</div>
+
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
@@ -25,7 +41,8 @@ Iniciante em programação, aprendendo e construindo projetos para evoluir a cad
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-### Ferramentas
+### Design & Ferramentas
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -58,7 +75,7 @@ Iniciante em programação, aprendendo e construindo projetos para evoluir a cad
 
 <div align="center">
   
-  💚 **"A jornada de mil milhas começa com um único passo"** 💚
+  💚 **"Design não é apenas como parece, mas como funciona"** - Steve Jobs 💚
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
   
