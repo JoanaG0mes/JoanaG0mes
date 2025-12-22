@@ -8,14 +8,15 @@
 
 ## 💚 Sobre Mim
 
-Desenvolvedora apaixonada por criar soluções elegantes e funcionais. Atualmente focada em desenvolvimento web com Vue.js e design de interfaces modernas.
+Iniciante em programação, aprendendo e construindo projetos para evoluir a cada dia! 🚀
 
-- 🔭 Trabalhando em: **Sistema de Controle de Versão**
-- 🌱 Aprendendo: **Vue.js, Design Systems, UX/UI**
-- 💬 Pergunte-me sobre: **Frontend, Vue, JavaScript, CSS**
-- ⚡ Curiosidade: Adoro criar interfaces com cores harmoniosas! 💚
+- 🌱 Aprendendo: **HTML, CSS, JavaScript e Vue.js**
+- 💻 Estudando: **Desenvolvimento Frontend e Design de Interfaces**
+- 🎯 Objetivo: **Criar aplicações web incríveis**
+- 📚 Sempre em busca de novos conhecimentos e desafios
+- ⚡ Curiosidade: Adoro experimentar com cores e layouts! 💚
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias que estou Aprendendo
 
 <div align="center">
 
@@ -27,7 +28,7 @@ Desenvolvedora apaixonada por criar soluções elegantes e funcionais. Atualment
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -44,7 +45,7 @@ Desenvolvedora apaixonada por criar soluções elegantes e funcionais. Atualment
 
 </div>
 
-## 🎨 Projetos em Destaque
+## 🎯 Meus Projetos
 
 <div align="center">
 
@@ -52,7 +53,7 @@ Desenvolvedora apaixonada por criar soluções elegantes e funcionais. Atualment
 
 </div>
 
-## 📫 Como me Encontrar
+## 📫 Vamos Conectar?
 
 <div align="center">
 
@@ -66,7 +67,7 @@ Desenvolvedora apaixonada por criar soluções elegantes e funcionais. Atualment
 
 <div align="center">
   
-  💚 **"Código limpo é código que conta uma história"** 💚
+  💚 **"A jornada de mil milhas começa com um único passo"** 💚
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
   
