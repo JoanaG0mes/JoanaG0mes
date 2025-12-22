@@ -10,7 +10,6 @@
 
 Iniciante em programação, aprendendo e construindo projetos para evoluir a cada dia! 🚀
 
-- 🌱 Aprendendo: **HTML, CSS, JavaScript e Vue.js**
 - 💻 Estudando: **Desenvolvimento Frontend e Design de Interfaces**
 - 🎯 Objetivo: **Criar aplicações web incríveis**
 - 📚 Sempre em busca de novos conhecimentos e desafios
@@ -42,14 +41,6 @@ Iniciante em programação, aprendendo e construindo projetos para evoluir a cad
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaG0mes&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=10b981&text_color=ffffff)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoanaG0mes&theme=dark&hide_border=true&background=0D1117&ring=10b981&fire=34d399&currStreakLabel=ffffff)
-
-</div>
-
-## 🎯 Meus Projetos
-
-<div align="center">
-
-[![Sistema de Controle de Versão](https://github-readme-stats.vercel.app/api/pin/?username=weydsonlino&repo=sistema-de-controle-de-versao&theme=dark&hide_border=true&bg_color=0D1117&title_color=10b981&icon_color=34d399&text_color=ffffff)](https://github.com/weydsonlino/sistema-de-controle-de-versao)
 
 </div>
 
