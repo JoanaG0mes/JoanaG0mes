@@ -61,18 +61,6 @@ Sempre buscando novos conhecimentos através de livros, artigos e documentaçõe
 
 </div>
 
-## 📫 Vamos Conectar?
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoanaG0mes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-
-</div>
-
----
-
 <div align="center">
   
   💚 **"Design não é apenas como parece, mas como funciona"** - Steve Jobs 💚
