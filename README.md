@@ -10,14 +10,18 @@
 
 Desenvolvedora Frontend apaixonada por criar experiências digitais incríveis! 🚀
 
+<br>
 • 💻 Tecnologias: HTML, CSS, JavaScript, Vue.js e Python
+<br>
 • 🎨 Aprofundando em: UI/UX Design e experiência do usuário
+<br>
 • 📌 Estudando: APIs REST, integração de serviços e Análise de Dados
+<br>
 • 🌱 Aprendendo: Automação com n8n e Python para dados
+<br>
 • 📚 Hobbies: Leitura e corrida 🏃‍♀️
+<br>
 • ⚡ Paixão: Criar interfaces bonitas e funcionais! 💚
-
-## 🎯 Foco Atual
 
 <div align="center">
 
